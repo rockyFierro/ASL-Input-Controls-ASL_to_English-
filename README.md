@@ -17,13 +17,3 @@ The image annotations is done with the help of LabelImage file which you can use
 
 The model was made only with help of [Nicholas Renotte tutorial](https://youtu.be/pDXdlXlaCco)
 and Priyanjali Gupta
-
-# TEST DATASET OUTPUT
-
-![asl_result](https://user-images.githubusercontent.com/64598746/151710894-e128dcf8-575a-41e3-8f8b-59396d6046fd.png)
-
-
-# DEMO
-
-https://user-images.githubusercontent.com/64598746/151703865-49307071-0f50-44ef-aced-ee869d508a7f.mp4
-
